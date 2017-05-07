@@ -1,2 +1,2 @@
 # WorkLog2
-Timesheet app
+This is a trehouse project using a database
